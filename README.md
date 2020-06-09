@@ -5,11 +5,11 @@ Expand the work you did in assignment 8 to predict late stage breast cancer usin
 
 Use the same training and test datasets as you used in assignment 8.
 
-## Use random forests
+## Build a random forest
 + Build a random forest model model.
 + Build a confusion matrix showing the actual vs predicted results in the test data. 
 + Comment on the accuracy and kappa.
 + Comment on the variable importance.
 
-### Bonus
+## Bonus
 +  Switch rfsrc for imbalanced and refit the model.  Comment on the differences
